@@ -28,25 +28,5 @@
    - Выберите "Открыть проект" и перейдите к папке, куда вы клонировали репозиторий.
    - Выберите файл решения (.sln) и откройте его.
 
-3. Убедитесь, что у вас установлен SQL Server и Entity Framework:
-   - Убедитесь, что у вас установлен SQL Server (можно использовать SQL Server Express).
-   - Убедитесь, что у вас установлены необходимые пакеты NuGet для Entity Framework.
-
-4. Настройте строку подключения в файле appsettings.json:
-   - Откройте файл appsettings.json в корне проекта.
-   - Найдите раздел ConnectionStrings и измените строку подключения на вашу, например:
-     
-     "ConnectionStrings": {
-         "DefaultConnection": "Server=your_server;Database=your_database;User   Id=your_username;Password=your_password;"
-     }
-     
-
-5. Обновите базу данных:
-   - Откройте консоль диспетчера пакетов (Tools > NuGet Package Manager > Package Manager Console).
-   - Выполните команду для применения миграций:
-     
-     Update-Database
-     
-
-6. Запустите проект:
+2. Запустите проект:
    - Нажмите F5 или выберите "Запустить" в меню, чтобы запустить приложение.
