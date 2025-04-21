@@ -16,7 +16,7 @@
 
 2.Окно полученных данных:
 
-   ![]()
+   ![](https://github.com/Durax66/ItogOOP-Tusk3--/blob/master/screenshots/screen%202.png)
 ## Установка
 
 1. Клонируйте репозиторий:
