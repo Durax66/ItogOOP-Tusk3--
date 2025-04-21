@@ -12,7 +12,7 @@
 
 1. Окно ввода данных:
    
-   ![]()
+   ![](https://github.com/Durax66/ItogOOP-Tusk3--/blob/master/screenshots/screen%201.png)
 
 2.Окно полученных данных:
 
